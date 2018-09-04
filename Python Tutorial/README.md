@@ -5,7 +5,7 @@ to create some charts with these objects. Also, in this section you will see the
 
 This is the output of the Working with pandas Series and DataFrames.py file:
 
-![GitHub Logo](/images/logo.png)
+
 
 series_obj['row 7']=
 6
