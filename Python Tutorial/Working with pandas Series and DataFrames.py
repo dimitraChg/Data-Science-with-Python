@@ -16,7 +16,7 @@ print(series_obj[[0, 7]])
 
 print(series_obj['row 3': 'row7])
 
-## Create a DataFrame with random values from 0-1 in each row and column
+## Create a DataFrame object with random values from 0-1 in each row and column
 
 np.random.seed(25)
 DF_obj = DataFrame(np.random.rand(36).reshape((6,6)), 
