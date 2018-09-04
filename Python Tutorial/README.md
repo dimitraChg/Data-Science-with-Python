@@ -13,12 +13,12 @@ This is the output of the Working with pandas Series and DataFrames.py file:
 
 ![series_output3](https://user-images.githubusercontent.com/42813996/45057581-abe47e80-b09e-11e8-87f0-55225bd37af4.PNG)
 
-![df](https://user-images.githubusercontent.com/42813996/45053994-4ee3cb00-b094-11e8-8f27-00ba67585c95.PNG)v
+![df](https://user-images.githubusercontent.com/42813996/45057843-742a0680-b09f-11e8-9d05-182a2929f9f5.PNG)
 
-![df1](https://user-images.githubusercontent.com/42813996/45054045-7fc40000-b094-11e8-8cd2-bcce74834a7c.PNG)
+![df1](https://user-images.githubusercontent.com/42813996/45058037-1f3ac000-b0a0-11e8-8af9-f4c6671cb2b7.PNG)
 
-![df2](https://user-images.githubusercontent.com/42813996/45055498-9d936400-b098-11e8-8600-00305a8c74cc.PNG)
+![df2](https://user-images.githubusercontent.com/42813996/45058348-18607d00-b0a1-11e8-8659-34c3349d39e7.PNG)
 
-![series_output4](https://user-images.githubusercontent.com/42813996/45056542-de40ac80-b09b-11e8-9e53-de9b71c1ae7c.PNG)
+![series_output4](https://user-images.githubusercontent.com/42813996/45058377-31692e00-b0a1-11e8-8b62-9fec459cf98a.PNG)
 
 ![series_output5](https://user-images.githubusercontent.com/42813996/45057052-4217a500-b09d-11e8-8e2f-f4827cf00161.PNG)
