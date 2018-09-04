@@ -5,36 +5,20 @@ to create some charts with these objects. Also, in this section you will see the
 
 This is the output of the Working with pandas Series and DataFrames.py file:
 
+![series_output](https://user-images.githubusercontent.com/42813996/45052976-41791180-b091-11e8-9723-ef7935152f02.PNG)
 
+![series_output1](https://user-images.githubusercontent.com/42813996/45057537-88b9cf00-b09e-11e8-832f-b9c3aa994c77.PNG)
 
-series_obj['row 7']=
-6
+![series_output2](https://user-images.githubusercontent.com/42813996/45057561-9a02db80-b09e-11e8-9423-71679695c887.PNG)
 
-series_obj[[0, 7]]=
-row 1    0
-row 8    7
-dtype: int32
+![series_output3](https://user-images.githubusercontent.com/42813996/45057581-abe47e80-b09e-11e8-87f0-55225bd37af4.PNG)
 
-series_obj['row 3': 'row 7']=
-row 3    2
-row 4    3
-row 5    4
-row 6    5
-row 7    6
-dtype: int32
+![df](https://user-images.githubusercontent.com/42813996/45053994-4ee3cb00-b094-11e8-8f27-00ba67585c95.PNG)v
 
+![df1](https://user-images.githubusercontent.com/42813996/45054045-7fc40000-b094-11e8-8cd2-bcce74834a7c.PNG)
 
-DF_obj=
-       column 1  column 2  column 3  column 4  column 5  column 6
-row 1  0.870124  0.582277  0.278839  0.185911  0.411100  0.117376
-row 2  0.684969  0.437611  0.556229  0.367080  0.402366  0.113041
-row 3  0.447031  0.585445  0.161985  0.520719  0.326051  0.699186
-row 4  0.366395  0.836375  0.481343  0.516502  0.383048  0.997541
-row 5  0.514244  0.559053  0.034450  0.719930  0.421004  0.436935
-row 6  0.281701  0.900274  0.669612  0.456069  0.289804  0.525819
+![df2](https://user-images.githubusercontent.com/42813996/45055498-9d936400-b098-11e8-8600-00305a8c74cc.PNG)
 
-DF_obj.ix[['row 2', 'row 5'], ['column 5', 'column 2']]=
-       column 5  column 2
-row 2  0.402366  0.437611
-row 5  0.421004  0.559053
+![series_output4](https://user-images.githubusercontent.com/42813996/45056542-de40ac80-b09b-11e8-9e53-de9b71c1ae7c.PNG)
 
+![series_output5](https://user-images.githubusercontent.com/42813996/45057052-4217a500-b09d-11e8-8e2f-f4827cf00161.PNG)
