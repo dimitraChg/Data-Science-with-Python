@@ -5,16 +5,7 @@ to create some charts with these objects. Also, in this section you will see the
 
 This is the output of the Working with pandas Series and DataFrames.py file:
 
-series_obj=
-row 1    0
-row 2    1
-row 3    2
-row 4    3
-row 5    4
-row 6    5
-row 7    6
-row 8    7
-dtype: int32
+![GitHub Logo](/images/logo.png)
 
 series_obj['row 7']=
 6
