@@ -1,9 +1,9 @@
 # Python Tutorial
 
-In this folder you will find some examples of how to create pandas Series and DataFrames in Python. In addition you will see how
-to create some charts with these objects. Also, in this section you will see the results of the code.
+In this folder you will find some examples of how to create Series and DataFrames in Python with pandas module. In addition you
+will see how to create some charts from these objects. Also, in this section you will see the results of each example.
 
-This is the output of the Working with pandas Series and DataFrames.py file:
+## This is the output of the Working with pandas Series and DataFrames.py file:
 
 ![series_output](https://user-images.githubusercontent.com/42813996/45052976-41791180-b091-11e8-9723-ef7935152f02.PNG)
 
@@ -22,3 +22,13 @@ This is the output of the Working with pandas Series and DataFrames.py file:
 ![series_output4](https://user-images.githubusercontent.com/42813996/45058377-31692e00-b0a1-11e8-8b62-9fec459cf98a.PNG)
 
 ![series_output5](https://user-images.githubusercontent.com/42813996/45057052-4217a500-b09d-11e8-8e2f-f4827cf00161.PNG)
+
+## This is the output of the missingValues.py file:
+
+![default](https://user-images.githubusercontent.com/42813996/45095361-92871500-b126-11e8-91eb-b5d136fe216f.PNG)
+
+![1](https://user-images.githubusercontent.com/42813996/45095391-a29ef480-b126-11e8-99d8-9e57c452ccd9.PNG)
+
+![2](https://user-images.githubusercontent.com/42813996/45095424-b64a5b00-b126-11e8-8b77-cba9b8ebcace.PNG)
+
+![3](https://user-images.githubusercontent.com/42813996/45095461-c7936780-b126-11e8-93e3-aa9727e8c12c.PNG)
