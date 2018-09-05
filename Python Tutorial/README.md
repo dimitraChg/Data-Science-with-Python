@@ -17,7 +17,7 @@ This is the output of the Working with pandas Series and DataFrames.py file:
 
 ![df1](https://user-images.githubusercontent.com/42813996/45058037-1f3ac000-b0a0-11e8-8af9-f4c6671cb2b7.PNG)
 
-![df2](https://user-images.githubusercontent.com/42813996/45058348-18607d00-b0a1-11e8-8659-34c3349d39e7.PNG)
+![df2](https://user-images.githubusercontent.com/42813996/45092571-8434fb00-b11e-11e8-9032-b7814600ced5.PNG)
 
 ![series_output4](https://user-images.githubusercontent.com/42813996/45058377-31692e00-b0a1-11e8-8b62-9fec459cf98a.PNG)
 
