@@ -32,3 +32,15 @@ will see how to create some charts from these objects. Also, in this section you
 ![2](https://user-images.githubusercontent.com/42813996/45095424-b64a5b00-b126-11e8-8b77-cba9b8ebcace.PNG)
 
 ![3](https://user-images.githubusercontent.com/42813996/45095461-c7936780-b126-11e8-93e3-aa9727e8c12c.PNG)
+
+![7](https://user-images.githubusercontent.com/42813996/45098109-fad8f500-b12c-11e8-83d1-c816d77a3ccb.PNG)
+
+![4](https://user-images.githubusercontent.com/42813996/45097754-36bf8a80-b12c-11e8-8819-2c3a52dc0251.PNG)
+
+![5](https://user-images.githubusercontent.com/42813996/45097789-4b038780-b12c-11e8-9709-d3665857e7eb.PNG)
+
+![6](https://user-images.githubusercontent.com/42813996/45097811-58b90d00-b12c-11e8-8dc7-ddb4cd29de35.PNG)
+
+![8](https://user-images.githubusercontent.com/42813996/45098831-80a97000-b12e-11e8-977d-8349b8dd7a92.PNG)
+
+![9](https://user-images.githubusercontent.com/42813996/45098856-8d2dc880-b12e-11e8-930c-7f5db39099b3.PNG)
