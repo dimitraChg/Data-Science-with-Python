@@ -29,6 +29,24 @@ The accuracy of the model is 0.78125 which is a pretty good number and denotes t
 ![3](https://user-images.githubusercontent.com/42813996/45377725-0aac7980-b604-11e8-92a4-811abb33d17d.PNG)
 
 In the second file you will see how to aplly the K-Means Clustering in iris data. The results are shown below:
-# K_Means Clustering
+# K-Means Clustering
 K-Means clustering algorithm is a simple unsupervised algorithm that is used to quickly predict groups from within an unlabeled 
 dataset.
+At file K-MeansClustering.ipynb you will see how to apply the K-Means clustering to the iris data. Our target variable is the 
+species which has three types setosa, versicolor and virginica. Also we are going to compare the clusters that we found with 
+the K-Means Clustering and the truth clusters of the data. This comparison is shown to the scatter plot below:
+![4](https://user-images.githubusercontent.com/42813996/45384686-5b799d80-b617-11e8-81ef-fb1371f60657.PNG)
+
+We see above that the clusters are not labeled correct and we need to relabel them. So, the picture below shows exactly that:
+![5](https://user-images.githubusercontent.com/42813996/45386461-186df900-b61c-11e8-8279-edb421b3102b.PNG)
+
+Now, that we have the correct labels to the clusters we see that the K-Means algorithm grouped the data pretty close to the 
+truth types.
+Finally, we print the report of the model to see if it fits well to the data. There are two important measures, the precision 
+and the recall. The precision shows the model's relevancy and the recall shows the model's completeness. We need high precision 
+and high recall in order to have high accuracy of the model. The results are shown below:
+![6](https://user-images.githubusercontent.com/42813996/45388144-ced3dd00-b620-11e8-888c-1cc485e692bb.PNG)
+
+We observe that under the precision return for the record 0  for all points predicted to have a 0 label 100% of the retrieved 
+instances were relevant (this is indicated from the value 1.0). The total return shows us that, of the entire dataset, 83% of 
+the results that were returned, were trully relevant.
