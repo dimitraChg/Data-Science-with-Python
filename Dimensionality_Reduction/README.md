@@ -1,4 +1,4 @@
-In this folder you will find two files the FactorAnalysis.ipynb and the PCA.ipunb.
+In this folder you will find two files the FactorAnalysis.ipynb and the PCA.ipynb.
 The first file shows how to use the factor analysis algorithm in order to find these factors of the dataset that hold almost 
 the most information of the data.
 # Factor Analysis
