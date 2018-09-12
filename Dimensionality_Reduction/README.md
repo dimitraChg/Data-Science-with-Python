@@ -26,6 +26,7 @@ The results are shown below:
 ![11](https://user-images.githubusercontent.com/42813996/45453128-9697d180-b6e8-11e8-985a-5b1842faf40d.PNG)
 We see that the first component holds the 92.46% of the dataset's variation and the second one holds the 5.30% of the dataset's 
 information. So, by keeping the first two components we keep the 97.76% of the information.
+
 Finally, we will see the heatmap diagram that shows as the correlation between the factors we found and the variables we have.
 ![12](https://user-images.githubusercontent.com/42813996/45455870-41ac8900-b6f1-11e8-8994-fbcc8e533abc.PNG)
 We see, that the component 0 is strongly possitively correlated with the variable Petal Length and the component 1 strongly negatively 
