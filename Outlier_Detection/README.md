@@ -46,6 +46,12 @@ We see that the variable Sepal Width has four extreme values.
 Next, we print the outliers of the Sepal Width variable in order to see in which row they exist.
 
 ![20](https://user-images.githubusercontent.com/42813996/45458047-81c43980-b6fa-11e8-8f9e-6d2be15b05bc.PNG)
+
 Finally, we use the Tukey method by hand in order to identify the extreme values as it is shown below:
-![21](https://user-images.githubusercontent.com/42813996/45458137-ea131b00-b6fa-11e8-9b78-61cc52f57655.PNG)
+![21](https://user-images.githubusercontent.com/42813996/45482884-e5c91b00-b757-11e8-9203-38b9dd32761d.PNG)
+First, we print out some predictive statistics of the data (such as mean, median (Q2), standard deviation (std), minimum value,
+maximum value, first quartile (Q1) and third quartile(Q3). Next, we calculate the IQR (Inner Quartile Ratio) which is the 
+difference between the third and the first quartile and then we calculate the values of a and b as a=Q1-1.5*IQR and
+b=Q3+1.5*IQR. After that we compare the minimum value with the a and if min<a then we have outliers. We do the same with the 
+maximum value and b and if max>b we assume that there are extreme values.
 Again we see the index that these outliers relly on, that is the rows 14, 31, 32 and 59.
