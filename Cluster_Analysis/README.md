@@ -30,7 +30,8 @@ The accuracy of the model is 0.78125 which is a pretty good number and denotes t
 
 In the second file you will see how to aplly the K-Means Clustering in iris data. The results are shown below:
 # K-Means Clustering
-K-Means clustering algorithm is a simple unsupervised algorithm that is used to quickly predict groups from within an unlabeled 
+K-Means clustering algorithm is a simple unsupervised algorithm that is used to quickly predict groups
+within an unlabeled 
 dataset.
 At file K-MeansClustering.ipynb you will see how to apply the K-Means clustering to the iris data. Our target variable is the 
 species which has three types setosa, versicolor and virginica. Also, we are going to compare the clusters that we found with 
